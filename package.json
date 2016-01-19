@@ -1,0 +1,29 @@
+{
+    "name": "pb-build",
+    "main": "./lib/pb-build",
+    "version": "1.0.0",
+    "description": "An atom package to build pebble projects.",
+    "keywords": [
+    ],
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "repository": "https://github.com/jneubrand/pb-build",
+    "keywords": [
+        "compile",
+        "pebble",
+        "watch",
+        "build",
+        "sdk",
+        "c"
+    ],
+    "providedServices": {
+        "builder": {
+            "description": "Build pebble projects",
+            "versions": {
+                "2.0.0": "providingFunction"
+            }
+        }
+    }
+}
