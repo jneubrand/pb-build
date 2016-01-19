@@ -3,8 +3,6 @@
     "main": "./lib/pb-build",
     "version": "1.0.0",
     "description": "An atom package to build pebble projects.",
-    "keywords": [
-    ],
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
