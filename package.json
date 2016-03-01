@@ -1,7 +1,7 @@
 {
   "name": "pb-build",
   "main": "./lib/pb-build",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "An atom package to build pebble projects.",
   "license": "MIT",
   "engines": {
